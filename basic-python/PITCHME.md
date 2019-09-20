@@ -1,6 +1,6 @@
 # Introduction to Python
 
-----?color=linear-gradien(90deg, black 65%, white 35%)
+---?color=linear-gradient(90deg, black 65%, white 35%)
 @title[Table of Contents]
 
 @snap[east span-45 text-black]

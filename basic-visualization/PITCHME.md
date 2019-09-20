@@ -1,6 +1,6 @@
 # Introduction to Visualization in Python
 
----?color=linear-gradien(90deg, white 35%, black 65%)
+---?color=linear-gradien(90deg, black 65%, white 35%)
 @title[Table of Contents]
 
 @snap[east span-45 text-black]

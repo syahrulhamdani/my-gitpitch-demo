@@ -1,0 +1,4 @@
+theme: template
+theme-text: ["none", "white", "none"]
+theme-headline: ["none", "white", "none"]
+theme-background: ["black"]
